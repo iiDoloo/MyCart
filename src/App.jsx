@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import './App.css'
-import MainPage from './components/MainPage'
 import Products from './components/Products'
 import { Provider } from 'react-redux'
 import store from './store/store'
 import NavBar from './components/NavBar'
+import MyCart from './components/MyCart'
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
     <>
     <Provider store={store}>
       <NavBar></NavBar>
-      <MainPage></MainPage>
+      <MyCart></MyCart>
       <Products></Products>
       </Provider>
     </>
