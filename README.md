@@ -1,6 +1,6 @@
-# Shopping Cart APP (Redux Toolkit)
+# 🛒 Shopping Cart APP (Redux Toolkit)
 
-A simple app where you can buy some products, add them to your interactive cart and get the total price, quantity and price per item
+A simple shopping cart app built with React and Redux Toolkit. Add products to your cart, view the total price, and manage quantities effortlessly. Styled with Tailwind CSS and a sleek dark theme. 
 
 Built by WebDev Students with ❤️. Inspired by a Udemy tutorial. Styled with AI assistance!
 
